@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jos6151)](https://solved.ac/jos6151/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justyarnsir17&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jos6151)](https://solved.ac/jos6151/) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justyarnsir17&show_icons=true&theme=transparent)
 <!--
 **JustYarnSir17/JustYarnSir17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
